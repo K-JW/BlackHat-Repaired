@@ -1,6 +1,6 @@
 # BlackHat-Repaired 
 
-![](https://img.shields.io/badge/GCC--7.5.0-passing-green)
+![](https://img.shields.io/badge/GCC--7.5.0-passing-green) ![](https://img.shields.io/badge/GCC--9.3.0-passing-green) ![](https://img.shields.io/badge/Ubuntu--latest-passing-green?logo=ubuntu)
 
 Forked from [https://blackhat.hepforge.org/](https://blackhat.hepforge.org/) and repaired. 
 
